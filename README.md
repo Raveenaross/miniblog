@@ -1,5 +1,3 @@
-# MiniBlog Web Application 
-
 # Output
 
 ![pic1](https://github.com/user-attachments/assets/405e02db-cde4-450a-bf20-04db29240a89)
