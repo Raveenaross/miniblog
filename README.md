@@ -8,20 +8,20 @@
 
 ![pic3](https://github.com/user-attachments/assets/fda80c4f-0c6d-4fbc-81f6-09d728881520)
 
-# Tech-Stacks used:
+# Tech-Stacks used
 
 * **React**
 * **Mysql**
 
-# Pre-Installations :
+# Pre-Installations 
 
 * **Node**
 * **VSCode**
 * **Mysql WorkBench**
 
-# Project Requirements :
+# Project Requirements 
 
-Run the following commands:
+Run the following commands
 
 $ npm create vite@latest
 
